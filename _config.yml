@@ -58,14 +58,14 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Kongres IKLIM <typeout> 2019"
 eventDate: "Januari - Februari, 2019"
-typeoutTextValues: '"", "Legislatif", "UNNES", "Legislator", "DPM", Mahasiswa"'
+typeoutTextValues: '"", "Legislatif", "UNNES", "Legislator", "DPM", "Mahasiswa"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Bergabung IKLIM"}
  - {permalink: "/#tickets", text: "Beli Tiket"}
 
 # About Block
-aboutTitle: "About Kongres IKLIM"
+aboutTitle: "Tentang Kongres IKLIM"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
