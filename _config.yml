@@ -56,20 +56,20 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Kongres IKLIM <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Legislatif", "UNNES", "Legislator", "DPM"'
+heroTitle: "Kongres IKLIM <typeout> 2019"
+eventDate: "Januari - Februari, 2019"
+typeoutTextValues: '"", "Legislatif", "UNNES", "Legislator", "DPM", Mahasiswa"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Bergabung IKLIM"}
  - {permalink: "/#tickets", text: "Beli Tiket"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Kongres IKLIM"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "FGD", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
