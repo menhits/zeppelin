@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Kongres IKLIM <typeout> 2019"
+heroTitle: "<typeout> IKLIM 2019"
 eventDate: "Januari - Februari, 2019"
-typeoutTextValues: '"", "Legislatif", "UNNES", "Legislator", "DPM", "Mahasiswa"'
+typeoutTextValues: '"", "Kongres", "Musyawarah", "Workshop", "Fieldtrip"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Bergabung IKLIM"}
